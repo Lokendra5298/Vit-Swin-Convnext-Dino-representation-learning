@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Data and outputs
+data/
+outputs/checkpoints/*.pt
+outputs/checkpoints/*.pth
+outputs/logs/*.csv
+outputs/logs/*.json
+outputs/metrics/*.json
+outputs/metrics/*.csv
+outputs/plots/*.png
+outputs/reports/*.md
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/

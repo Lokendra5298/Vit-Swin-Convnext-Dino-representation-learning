@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+data/
+outputs*/checkpoints/*.pt
+outputs*/checkpoints/*.pth
+outputs*/logs/*.csv
+outputs*/logs/*.json
+outputs*/metrics/*.json
+outputs*/metrics/*.csv
+outputs*/plots/*.png
+outputs*/features/*.npz
+.DS_Store
+.vscode/
+.idea/
