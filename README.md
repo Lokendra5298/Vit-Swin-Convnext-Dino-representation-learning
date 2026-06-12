@@ -185,35 +185,32 @@ Architecture diagrams can be placed inside the `assets/` directory:
 
 ```text
 assets/
-├── architecture_vit.png
-├── architecture_swin.png
-├── architecture_convnext.png
-└── architecture_dino.png
+├── ConvNext.png
+├── Mini-dino.png
+├── Swin Trasnsfer.png
+└── ViT.png
 ```
 
-You can reference them in this README as:
-
-
 <p align="center">
-  <img src="./assets/architecture_vit.png" alt="ViT Architecture" width="400"/>
+  <img src="./assets/ViT.png" alt="ViT Architecture" width="400"/>
   <br>
   <b>ViT Architecture</b>
 </p>
 
 <p align="center">
-  <img src="./assets/architecture_swin.png" alt="Swin Transformer Architecture" width="400"/>
+  <img src="./assets/Swin%20Trasnsfer.png" alt="Swin Transformer Architecture" width="400"/>
   <br>
   <b>Swin Transformer Architecture</b>
 </p>
 
 <p align="center">
-  <img src="./assets/architecture_convnext.png" alt="ConvNeXt Architecture" width="400"/>
+  <img src="./assets/ConvNext.png" alt="ConvNeXt Architecture" width="400"/>
   <br>
   <b>ConvNeXt Architecture</b>
 </p>
 
 <p align="center">
-  <img src="./assets/architecture_dino.png" alt="Mini-DINO Architecture" width="400"/>
+  <img src="./assets/Mini-dino.png" alt="Mini-DINO Architecture" width="400"/>
   <br>
   <b>Mini-DINO Architecture</b>
 </p>
